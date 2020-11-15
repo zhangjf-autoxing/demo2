@@ -25,3 +25,4 @@ jobs:
           -Dsonar.organization=autoxingtech
           -Dsonar.projectKey=autoxingtech_demo2
           -Dsonar.verbose=true
+
